@@ -1,0 +1,2 @@
+npm i mysql
+npm i express cors nodemon cookie-parser jsonwebtoken bcrypt
